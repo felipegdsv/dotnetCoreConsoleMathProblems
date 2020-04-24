@@ -1,1 +1,1 @@
-# .netCoreConsoleMathProblems
+# netCoreConsoleMathProblems
